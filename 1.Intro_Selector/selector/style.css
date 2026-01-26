@@ -1,0 +1,22 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    font-size: 22px;
+}
+p{
+    color: purple;
+}
+h1, h3{
+    color: blue;
+}
+.gray{
+    color: gray;
+}
+#second{
+    font-style: italic;
+}
+#highlight{
+    background-color: blanchedalmond;
+    text-transform: uppercase;
+}
