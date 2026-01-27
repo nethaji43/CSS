@@ -1,24 +1,32 @@
 # CSS Practice Log
 
-👨‍💻 Learner: Nethaji
-🎯 Goal: Learn CSS step by step
+Learner: Nethaji
 
 ---
 
-## Day 1 – 26-01-2026
+Day 2 – 27-01-2026
 
-### Topics Covered
+* Colors
+* CSS supported colours
+* RGB
+* RGBA
+* HEX
+* Units: px, %, ch, rem, em, vh, vw
+
+---
+
+Day 1 – 26-01-2026
 
 * CSS Introduction
-* Types of CSS Creation (Inline, Internal, External)
-* CSS Selectors
-* Class Selector
-* ID Selector
-* Group Selector
-* HTML Tag Selector
-* Universal Selector
-* How Selectors Work
+* Types of CSS creation (inline, internal, external)
+* CSS selectors
+* Class selector
+* ID selector
+* Group selector
+* HTML tag selector
+* Universal selector
+* How selectors work
 
 ---
 
-✍️ I will update this README daily with new topics.
+(I will update this file daily. Latest day on top)

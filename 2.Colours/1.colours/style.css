@@ -1,0 +1,9 @@
+body{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: palegoldenrod;
+    color: rgb(0,0,0);
+}
+p{
+    color: rgba(4, 4, 190, 0.91);
+}
