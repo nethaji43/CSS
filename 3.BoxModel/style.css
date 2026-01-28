@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px dashed red;
+    padding: 1.5rem;
+    font-size: 2em;
+    margin: 1.5rem;
+    outline: 2px dotted dodgerblue;
+    outline-offset: 5px;
+}
+#circle{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px solid rebeccapurple;
+    margin: 3rem auto;
+    border-radius: 25px;
+}

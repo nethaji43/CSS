@@ -4,6 +4,15 @@ Learner: Nethaji
 
 ---
 
+Day 3 – 28-01-2026
+
+* Box Model
+* Margin, Border, Padding, Content
+* Margin / Border / Padding (top, right, bottom, left)
+* Circle creation using border-radius
+
+---
+
 Day 2 – 27-01-2026
 
 * Colors
