@@ -4,6 +4,16 @@ Learner: Nethaji
 
 ---
 
+Day 4 – 29-01-2026
+
+* Typography
+* Text: color, decoration, transform, align
+* Line-height, letter-spacing, word-spacing
+* Font: weight, family, size, style
+* External font family
+
+---
+
 Day 3 – 28-01-2026
 
 * Box Model
@@ -38,4 +48,4 @@ Day 1 – 26-01-2026
 
 ---
 
-(I will update this file daily. Latest day on top)
+(Latest day on top)
