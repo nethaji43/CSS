@@ -4,6 +4,15 @@ Learner: Nethaji
 
 ---
 
+Day 5 – 16-02-2026
+
+* Link styling
+* a: text-decoration, cursor, color
+* Pseudo class: visited, hover, focus, active
+* Specificity calculator
+
+---
+
 Day 4 – 29-01-2026
 
 * Typography
