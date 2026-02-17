@@ -4,6 +4,18 @@ Learner: Nethaji
 
 ---
 
+Day 6 – 17-02-2026
+
+* List styling
+* Types of list-style-type
+* start, reversed, value
+* Types of list-style-position
+* list-style-image
+* nth-child
+* marker
+
+---
+
 Day 5 – 16-02-2026
 
 * Link styling
